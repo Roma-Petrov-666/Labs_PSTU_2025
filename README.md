@@ -10,3 +10,4 @@
 | --- | 1_3 | Готово | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/1_3/1_3.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/1_3/1_3.png |
 | --- | 2_1 | Готово | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_1/2_1%20-%202.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_1/2_1%20-%202.png |
 | --- | 2_2 | Готово | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_2/2_2.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_2/2_2.png |
+| --- | 2_3 | Готово | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_3/2_3.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_3/2_3.png |
