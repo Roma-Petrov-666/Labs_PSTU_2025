@@ -21,7 +21,7 @@
 | --- | 2_9 | Не готово |  |  |
 | --- | 2_10 | Готово | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_10/2_10.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_10/2_10.png |
 | --- | 2_11 | Готово | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_11/2_11.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_11/2_11.png |
-| --- | 2_12 | Не готово |  |  |
+| --- | 2_12 | Готово | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_12/2_12.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_12/2_12.png |
 | --- | 2_13 | Не готово |  |  |
 | --- | 2_14 | Не готово |  |  |
 | --- | 2_15 | Не готово |  |  |
