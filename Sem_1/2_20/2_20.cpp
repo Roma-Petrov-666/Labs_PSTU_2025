@@ -7,8 +7,8 @@ int main() {
     bool finish = false;
     std::cin>>n>>s;
     
-    for (double i=1; i < n+1; i++) {
-        if (s - sin(i + 1/i) < 0.00001) {
+    for (double i=0; i < n; i++) {
+        if (abs(s - sin(n + i/n)) < 0.00001) {
             finish = true;
         }
     }
