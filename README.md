@@ -40,4 +40,4 @@
 | ptr_2 | 🟢/🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_2/ptr_2.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_2/ptr_2.png |  |
 | ptr_3 | 🟢/🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_3/ptr_3.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_3/ptr_3.png |  |
 | ptr_4 | 🟢/🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_4/ptr_4.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_4/ptr_4.png |  |
-| ptr_5 | 🔴/🔴/🔴 |  |  |  |
+| ptr_5 | 🟢/🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_5/ptr_5.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_5/ptr_5.png |  |
