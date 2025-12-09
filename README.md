@@ -37,4 +37,7 @@
 | Наименование | Статус | Ссылка на исходный код | Ссылка на схему | графическая изуализация |
 | --- | --- | --- | --- | ---|
 | ptr_1 | 🟢/🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_1/ptr_1.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_1/ptr_1.png |  |
-| ptr_2 | 🔴/🔴/🔴 |  |  |  |
+| ptr_2 | 🟢/🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_2/ptr_2.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/ptr_2/ptr_2.png |  |
+| ptr_3 | 🔴/🔴/🔴 |  |  |  |
+| ptr_4 | 🔴/🔴/🔴 |  |  |  |
+| ptr_5 | 🔴/🔴/🔴 |  |  |  |
