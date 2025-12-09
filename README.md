@@ -33,5 +33,8 @@
 | 2_21 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_21/2_21.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_21/2_21.png |
 | 2_22 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_22/2_22.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_22/2_22.png |
 | 2_23 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_23/2_23.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/2_23/2_23.png |
+
+| Наименование | Статус | Ссылка на исходный код | Ссылка на схему | графическая изуализация |
+| --- | --- | --- | --- | ---|
 | ptr_1 | 🔴/🔴 |  |  |
 | ptr_2 | 🔴/🔴 |  |  |
