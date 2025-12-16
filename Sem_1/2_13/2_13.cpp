@@ -17,4 +17,5 @@ int main() {
         std::cout<<"Корней нет";
     }
 
+    return 0;
 }
