@@ -46,3 +46,24 @@
 | --- | --- | --- | --- |
 | ep_Half | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/eq/eq_Half.cpp |  |
 | eq_Newton | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_1/eq/eq_Newton.cpp |  |
+
+
+## 2 Семестр
+| Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
+| --- | --- | --- | --- |
+| Сортировка пузырьком | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort1.cpp |  |
+| Сортировка выбором  | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort2.cpp |  |
+| Сортировка вставками  | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort3.cpp |  |
+| 3.1 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.1.cpp |  |
+| 3.2 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.2.cpp |  |
+| 3.3 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.3.cpp |  |
+| 3.4 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.4.cpp |  |
+| 3.5 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.5.cpp |  |
+| 3.6 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.6.cpp |  |
+| 3.7 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.7.cpp |  |
+| 3.8 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.8.cpp |  |
+| 3.9 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.9.cpp |  |
+| 3.10 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.10.cpp |  |
+| 3.11 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.11.cpp |  |
+| 3.12 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.12.cpp |  |
+| 3.13 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.13.cpp |  |
