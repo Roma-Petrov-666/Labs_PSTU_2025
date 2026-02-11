@@ -6,6 +6,8 @@ int main() {
 	int arr[n] = {5, 2, 3, 10, 4 ,1, 6, 9, 10, 8};
 	int k=2;
 	int tmp[k];
+
+	k = k%n;
 	
     for (int i=0; i < n-k; i++) {
         if (i < k) {
@@ -22,4 +24,5 @@ int main() {
 	}
 	
     return 0;
+
 }
