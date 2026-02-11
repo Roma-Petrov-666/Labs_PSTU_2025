@@ -67,3 +67,8 @@
 | 3.11 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.11/3.11.cpp |  |
 | 3.12 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.12/3.12.cpp |  |
 | 3.13 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.13/3.13.cpp |  |
+
+Лабораторки
+| Номер | Статус | Ссылка на исходный код | Ссылка на схему |
+| --- | --- | --- | --- |
+| 4 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab4/Lab4.cpp |  |
