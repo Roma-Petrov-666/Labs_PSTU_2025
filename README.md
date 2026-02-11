@@ -51,9 +51,9 @@
 ## 2 Семестр
 | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- |
-| Сортировка пузырьком | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort1.cpp |  |
-| Сортировка выбором  | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort2.cpp |  |
-| Сортировка вставками  | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort3.cpp |  |
+| Сортировка пузырьком | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort1/Sort1.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort1/Sort1.png |
+| Сортировка выбором  | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort2/Sort2.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort2/Sort2.png |
+| Сортировка вставками  | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort3/Sort3.cpp |  |
 | 3.1 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.1.cpp |  |
 | 3.2 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.2.cpp |  |
 | 3.3 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.3.cpp |  |
