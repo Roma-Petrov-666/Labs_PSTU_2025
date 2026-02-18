@@ -49,24 +49,6 @@
 
 
 ## 2 Семестр
-| Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
-| --- | --- | --- | --- |
-| Сортировка пузырьком | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort1/Sort1.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort1/Sort1.png |
-| Сортировка выбором  | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort2/Sort2.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort2/Sort2.png |
-| Сортировка вставками  | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Sort3/Sort3.cpp |  |
-| 3.1 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.1/3.1.cpp |  |
-| 3.2 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.2/3.2.cpp |  |
-| 3.3 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.3/3.3.cpp |  |
-| 3.4 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.4/3.4.cpp |  |
-| 3.5 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.5/3.5.cpp |  |
-| 3.6 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.6/3.6.cpp |  |
-| 3.7 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.7/3.7.cpp |  |
-| 3.8 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.8/3.8.cpp |  |
-| 3.9 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.9/3.9.cpp |  |
-| 3.10 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.10/3.10.cpp |  |
-| 3.11 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.11/3.11.cpp |  |
-| 3.12 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.12/3.12.cpp |  |
-| 3.13 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/3.13/3.13.cpp |  |
 
 ### Лабораторки
 18 Вариант
@@ -77,7 +59,7 @@
 | 3 | 3 | 🔴/🔴 |  |  |
 | 4 | Ханойская башня | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Hanoi/Hanoi.cpp |  |
 | 5 | Восемь ферзей | 🔴/🔴 |  |  |
-| 6 | Сортировки | 🔴/🔴 |  |  |
+| 6 | Сортировки | 🔴/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Sort |  |
 | 7 | 10 | 🔴/🔴 |  |  |
 | 8 | 7.1 | 🔴/🔴 |  |  |
 | 9 | 7.2 | 🔴/🔴 |  |  |
