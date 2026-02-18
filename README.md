@@ -74,4 +74,5 @@
 | --- | --- | --- | --- |
 | 4 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab4/Lab4.cpp |  |
 | 5 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab5/Lab5.cpp |  |
-
+| Ханойская башня | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Hanoi/Hanoi.cpp |  |
+| NOD | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/NOD/NOD.cpp |  |
