@@ -11,6 +11,8 @@ void hanoi(int n, int start, int point, int tmp) {
 int main() {
 	hanoi(3, 1, 3, 2);
 
+	return 0;
 }
+
 
 
