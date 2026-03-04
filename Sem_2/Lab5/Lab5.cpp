@@ -44,7 +44,7 @@ void Submatrices(int matrix[][Max_Size], int n) {
 }
 
 int main() {
-	const int N=5;
+	const int N=Max_Size;
 	int arr[N][N];
 	
 	for (int i=0; i < N; i++) {
@@ -65,3 +65,4 @@ int main() {
     return 0;
 
 }
+
