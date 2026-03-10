@@ -63,7 +63,7 @@ https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/3
 | 4 | Ханойская башня | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Hanoi/Hanoi.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Hanoi/Hanoi.png |
 | 5 | Восемь ферзей | 🔴/🔴 |  |  |
 | 6 | Сортировки | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Sort |  |
-| 7 | 10 | 🔴/🔴 |  |  |
+| 7 | 10 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab10/Lab10.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab10/Lab10.png |
 | 8 | 7.1 | 🔴/🔴 |  |  |
 | 9 | 7.2 | 🔴/🔴 |  |  |
 | 10 | 6 | 🔴/🔴 |  |  |
