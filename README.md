@@ -66,4 +66,4 @@ https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/3
 | 7 | 10 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab10/Lab10.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab10/Lab10.png |
 | 8 | 7.1 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab7.1/Lab7.1.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab7.1/Lab7.1..png |
 | 9 | 7.2 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab7.2/Lab7.2.cpp |  |
-| 10 | 6 | 🔴/🔴 |  |  |
+| 10 | 6 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab6/Lab6.cpp |  |
