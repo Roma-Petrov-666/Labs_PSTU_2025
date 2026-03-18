@@ -40,13 +40,6 @@ void Sort(string arr[], int n) {
     }
 }
 
-void Print(string arr[], int n) {
-    for (int i=0; i < n; i++) {
-        cout<<arr[i]<<" ";
-    }
-    cout<<endl;
-}
-
 int main() {
 	string str;
     getline(cin, str);
