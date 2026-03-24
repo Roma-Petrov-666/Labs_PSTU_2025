@@ -128,7 +128,7 @@ void writeBooksToFile(Book* books, int size, string& filename) {
 
 int main() {
     int n=0;
-    string filename = "Lab8_data.txt";
+	string filename = "Lab8_data.txt";
     Book* books = readBooksFromFile(filename, n);
     if (books == nullptr || n == 0) {
 		cout<<"Ошибка чтения";
@@ -155,7 +155,7 @@ int main() {
         print(books[i]);
         cout<<endl;
     }
-	writeBooksToFile(books, n, "Lab8_data.txt");
+	writeBooksToFile(books, n, filename);
 
     delete[] books;
     return 0;
