@@ -128,7 +128,8 @@ void writeBooksToFile(Book* books, int size, string& filename) {
 
 int main() {
     int n=0;
-    Book* books = readBooksFromFile("Lab8_data.txt", n);
+    string filename = "Lab8_data.txt";
+    Book* books = readBooksFromFile(filename, n);
     if (books == nullptr || n == 0) {
 		cout<<"Ошибка чтения";
         return 1;
