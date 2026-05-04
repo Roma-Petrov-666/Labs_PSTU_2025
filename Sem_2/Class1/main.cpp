@@ -1,6 +1,6 @@
 #include<iostream>
 
-#include "Class1.cpp"
+#include "Class1.h"
 
 fraction make_fraction(double A, double B) {
 	fraction t;
