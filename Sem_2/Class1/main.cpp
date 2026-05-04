@@ -12,23 +12,23 @@ int main() {
 	fraction A;
 	fraction B;
 	
-	while (true) {
-		A.Init(3.0, 2);
-		B.Read();
+	A.Init(3.0, 2);
+	B.Read();
 	
-		A.Show();
-		B.Show();
+	A.Show();
+	B.Show();
 	
-		try {
+	try {
 		std::cout<<A.root()<<std::endl;
-		} catch(const char* error_message) {
+		}
+		catch(const char* error_message) {
 			std::cout<<error_message<<std::endl;
 		}
 		
 		try {
 		std::cout<<B.root()<<std::endl;
-		} catch(const char* error_message) {
+		}
+		catch(const char* error_message) {
 			std::cout<<error_message<<std::endl;
 		}
-	}
 }
