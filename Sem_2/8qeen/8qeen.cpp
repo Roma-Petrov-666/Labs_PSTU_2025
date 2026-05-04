@@ -1,6 +1,6 @@
 #include <iostream>
 
-constexpr int N = 8;
+const int N = 8;
 
 // Функция вывода доски на экран
 void printBoard(const int board[N][N]) {
