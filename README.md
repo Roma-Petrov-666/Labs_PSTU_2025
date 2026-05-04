@@ -70,12 +70,12 @@ https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/3
 | 11 | 9 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab9/Lab9.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab9/Lab9.png |
 | 12 | 8 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab8/Lab8.cpp| https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab8/Lab8.png |
 | 13 | 11 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Lab11 |  |
-| 14 | линейный интерполяционный бинарный поиск подстроки |  |  |
-| 15 | поиск подстроки в строке сложные и наивный |  |  |
-| 16 | быстрые сортировки Ломуто слиянием блочная подсчетом |  |  |
-| 17 | сортировки быстрая и хоара |  |  |
-| 18 | многофазная и естественная сортировки |  |  |
-| 19 | хэш таблицы |  |  |
+| 14 | линейный интерполяционный бинарный поиск подстроки | 🟢/🔴|  https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/inter-binar/inter-binar.cpp |  |
+| 15 | поиск подстроки в строке сложные и наивный |  |  |  |
+| 16 | быстрые сортировки Ломуто слиянием блочная подсчетом |  |  |  |
+| 17 | сортировки быстрая и хоара |  |  |  |
+| 18 | многофазная и естественная сортировки |  |  |  |
+| 19 | хэш таблицы |  |  |  |
 
 ### Классы
 | Номер | Статус | Ссылка на исходный код | Ссылка на схему |
