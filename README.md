@@ -70,7 +70,7 @@ https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/3
 | 11 | 9 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab9/Lab9.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab9/Lab9.png |
 | 12 | 8 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab8/Lab8.cpp| https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/Lab8/Lab8.png |
 | 13 | 11 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Lab11 |  |
-| 14 | линейный интерполяционный бинарный поиск подстроки | 🟢/🔴|  https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/inter-binar/inter-binar.cpp |  |
+| 14 | линейный интерполяционный бинарный поиск подстроки | 🟢/🟢|  https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/inter-binar/inter-binar.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/inter-binar |
 | 15 | поиск подстроки в строке сложные и наивный | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Poisk |  |
 | 16 | быстрые сортировки Ломуто слиянием блочная подсчетом |  |  |  |
 | 17 | сортировки быстрая и хоара |  |  |  |
@@ -80,14 +80,16 @@ https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/3
 ### Классы
 | Номер | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- |
-| 1 | 🟢/🔴 | | |
-| 2 | 🟢/🔴 | | |
-| 3 | 🟢/🔴 | | |
-| 4 | 🟢/🔴 | | |
-| 5 | 🟢/🔴 | | |
-| 6 | 🟢/🔴 | | |
-| 7 | 🟢/🔴 | | |
-| 8 | 🟢/🔴 | | |
-| 9 | 🟢/🔴 | | |
-| 10 | 🟢/🔴 | | |
-| 11 | 🟢/🔴 | | |
+| 1 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class1 | |
+| 2 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class2 | |
+| 3 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class3 | |
+| 4 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class4 | |
+| 5 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class5 | |
+| 6 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class6 | |
+| 7 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class7 | |
+| 8 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class8 | |
+| 9 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class9 | |
+| 10 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class10 | |
+| 11 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class11 | |
+| 12 | 🔴/🔴 | | |
+| 13 | 🔴/🔴 | | |
