@@ -1,6 +1,6 @@
 #include <iostream>
 
-int partitionHoare(int arr[], int low, int high) {
+int partHoare(int arr[], int low, int high) {
 
 	int p = (high + low) / 2;
 	int pivot = arr[p];
@@ -30,7 +30,7 @@ int partitionHoare(int arr[], int low, int high) {
 
 void quickSortHoare(int arr[], int low, int high) {
 	if (low < high) {
-		int p = partitionHoare(arr, low, high);
+		int p = partHoare(arr, low, high);
 
 		quickSortHoare(arr, low, p);
 		quickSortHoare(arr, p+1, high);
