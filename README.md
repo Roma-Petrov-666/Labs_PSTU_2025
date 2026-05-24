@@ -72,7 +72,7 @@ https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/3
 | 13 | 11 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Lab11 |  |
 | 14 | линейный интерполяционный бинарный поиск подстроки | 🟢/🟢|  https://github.com/Roma-Petrov-666/Labs_PSTU_2025/blob/main/Sem_2/inter-binar/inter-binar.cpp | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/inter-binar |
 | 15 | поиск подстроки в строке сложные и наивный, BM, BMH | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Poisk |  |
-| 16 | быстрые сортировки Ломуто слиянием блочная подсчетом |  | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Sort2 |  |
+| 16 | Быстрая сортировка Ломуто, слиянием, подсчётом, блочная |  | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Sort2 |  |
 | 17 | сортировки быстрая и хоара |  |  |  |
 | 18 | многофазная и естественная сортировки |  |  |  |
 | 19 | хэш таблицы |  |  |  |
