@@ -75,7 +75,7 @@ https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/3
 | 16 | быстрая сортировка Ломуто, слиянием, подсчётом, блочная | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Sort2 |  |
 | 17 | быстрая сортировки Шелла и Хоара | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/QuickSort |  |
 | 18 | многофазная и естественная сортировки | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Sort3 |  |
-| 19 | хэш таблицы |  |  |  |
+| 19 | хэш таблицы | 🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Hash |  |
 
 Вариант 6
 ### Классы
