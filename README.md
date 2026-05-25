@@ -81,16 +81,16 @@ https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/3
 Вариант 6
 | Номер | Статус | Ссылка на исходный код |
 | --- | --- | --- |
-| 1 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class1 |
-| 2 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class2 |
-| 3 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class3 |
-| 4 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class4 |
-| 5 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class5 |
-| 6 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class6 |
-| 7 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class7 |
-| 8 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class8 |
-| 9 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class9 |
-| 10 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class10 |
-| 11 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class11 |
-| 12 | 🟢/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class12 |
-| 13 | 🔴/🔴 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class13 |
+| 1 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class1 |
+| 2 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class2 |
+| 3 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class3 |
+| 4 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class4 |
+| 5 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class5 |
+| 6 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class6 |
+| 7 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class7 |
+| 8 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class8 |
+| 9 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class9 |
+| 10 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class10 |
+| 11 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class11 |
+| 12 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class12 |
+| 13 | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Class13 |
