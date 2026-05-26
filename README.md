@@ -77,7 +77,7 @@ https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/3
 | 18 | многофазная и естественная сортировки | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Sort3 |  |
 | 19 | хэш таблицы | 🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Hash |  |
 | 20 | бинарное дерево | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/BinaryTree |  |
-| 21 | граф |  |  |  |
+| 21 | граф | 🟢/🟢 | https://github.com/Roma-Petrov-666/Labs_PSTU_2025/tree/main/Sem_2/Graph |  |
 | 22 | комивояжора |  |  |  |
 
 ### Классы
